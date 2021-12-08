@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<?php 
 <html lang="en">
   <head>
     <title>Ranjeev portfolio</title>
@@ -554,3 +554,5 @@
     
   </body>
 </html>
+							
+?>
